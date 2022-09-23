@@ -145,7 +145,7 @@ The `flyctl` output shows the details of the new volume, including its size.
 The `delete` sub-command allows you to delete a specific volume.
 
 ```cmd
-fly volumes delete vol_2n0l9vlnklpr635d -a myapp
+fly volumes delete vol_2n0l9vlnklpr635d
 ```
 ```out
 Deleting a volume is not reversible.
